@@ -15,6 +15,7 @@ public class Test {
         System.out.println("test");
         System.out.println("test");
         System.out.println("master修改");
+        System.out.println("hot-fix修改");
     }
 
     public static int strStr(String haystack, String needle) {
