@@ -11,6 +11,7 @@ public class Test {
     public static void main(String[] args) {
         System.out.println(strStr("asdfawqrwe",null));
         System.out.println("test");
+        System.out.println("在GitHub上直接修改代码");
     }
 
     public static int strStr(String haystack, String needle) {
